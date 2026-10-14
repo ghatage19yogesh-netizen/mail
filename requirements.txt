@@ -1,0 +1,7 @@
+streamlit>=1.50
+pandas>=2.0
+openpyxl>=3.1
+# Only needed for connected BigQuery mode:
+# google-cloud-bigquery>=3.10
+# google-cloud-storage>=2.10
+# pyarrow>=14
